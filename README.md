@@ -8,8 +8,10 @@ I have added Five HTML, CSS and JavaScript questions to each.
 - Results
 
 ## Upcoming Features ##
+- Quit Quiz button
 - More questions will be add.
 - To explore more Topics.
+- Time counter
   
 ## Check Live ##
 Link: https://codingquizapp.vercel.app/
